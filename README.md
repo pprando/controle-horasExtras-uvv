@@ -74,14 +74,12 @@ O protótipo contém **6 telas principais**:
 
 ## 🔗 Link do Protótipo (Figma)
 
-[👉 Acessar protótipo no Figma](https://www.figma.com/file/...)
+[👉 Acessar protótipo no Figma](https://cake-piece-29510210.figma.site/)
 
 ---
 
-## 👨‍💻 Integrantes do Grupo
 
-- **Pedro Prando**  
-- *(adicione aqui os outros integrantes, se houver)*  
+
 
 ---
 
@@ -89,10 +87,7 @@ O protótipo contém **6 telas principais**:
 
 **Universidade Vila Velha (UVV)**  
 Disciplina: **Experiência e Interface com o Usuário**  
-Professor(a): *(insira o nome do professor)*  
-Domingos Martins – ES, 2025  
 
----
 
 ## 📄 Licença
 
